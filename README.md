@@ -1,2 +1,3 @@
-# ProductorConsumidor
-Productor Consumidor Hilos en Java
+# Productor - Consumidor
+Productor Consumidor Hilos en Java Thread sin synchronized
+Utilizacion de la clase Thread.
